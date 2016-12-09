@@ -1,12 +1,12 @@
 # HadoopStreamingAPI
 
-## Below are the instructions for using this code on hadoop server which supports HadoopStreamingAPI
+## Below are the instructions for data analysis on hadoop server which supports HadoopStreamingAPI
 
 Go to home directory
 
 First, clone these repository either using https or ssh on to the hadoop server
 
-After successful clone, you can see both mapper and reducer programs
+After successful clone, you can see both mapper.py and reducer.py programs
 
 Then run the below command on hadoop cluster by making small modifications in  output path where you want to store  
 
